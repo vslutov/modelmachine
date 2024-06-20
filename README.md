@@ -1,3 +1,5 @@
+# This repo is archieved, actual source code located at https://github.com/cmc-python/modelmachine
+
 # modelmachine
 Model machine emulator
 
